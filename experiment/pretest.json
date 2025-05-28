@@ -1,12 +1,12 @@
 {
   "version": 2.0,
-  "questions": [1.
+  "questions": [
     {
       "question": "What is a Bipolar Junction Transistor (BJT)?",
       "answers": {
-        "a":"A unipolar device"
-        "b":"A two-terminal device"
-        "c":"A current-controlled device"
+        "a":"A unipolar device",
+        "b":"A two-terminal device",
+        "c":"A current-controlled device",
         "d":"A voltage-controlled device"
       },
       "explanations": {
@@ -19,12 +19,46 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is a BJT configuration?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Common Source",
+        "b": "Common Base",
+        "c": "Common Drain",
+        "d": "Common Gate"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+    {
+      "question": "What is the primary function of a transistor in switching mode?",
+      "answers": {
+        "a": "Amplification",
+        "b": "Filtering",
+        "c": "Rectification",
+        "d": "Turning circuits on/off"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+    {
+      "question": "When is a BJT considered to be in cutoff mode?",
+      "answers": {
+        "a": "Base current is high",
+        "b": "Collector current is maximum",
+        "c": "Base-emitter junction is reverse-biased",
+        "d": "Emitter-collector junction is forward-biased"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +67,23 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+    {
+      "question": "In switching operation, when the transistor is fully ON, it is said to be in:",
+      "answers": {
+        "a": "Cutoff region",
+        "b": "Linear region",
+        "c": "Active region",
+        "d": "Saturation region"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
